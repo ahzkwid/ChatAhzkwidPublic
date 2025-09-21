@@ -1,3 +1,3 @@
-이곳에서 사용되는 이미지를 올리기 위한곳
+ここで使用される画像をアップロードするための場所
 
 https://ahzkwid.github.io/ChatAhzkwid/
